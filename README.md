@@ -23,6 +23,7 @@
 ## 專題研究內容
 
 * [CTF介紹](./CTF介紹/README.md)
+* [基本技巧](url)
 * [逆向工程 (Reverse)](url)
 * [弱點或弱洞分析 (Pwnable)](url)
 * [鑑識（Forensics)](url)
