@@ -22,8 +22,13 @@
 
 ## 專題研究內容
 
+<<<<<<< HEAD
 * [CTF介紹](https://github.com/NQUsecurityproject-ctf/CTF/blob/master/ctf%E4%BB%8B%E7%B4%B9/README.md)
 * [基本技巧](url)
+=======
+* [CTF介紹](https://github.com/NQUsecurityproject-ctf/CTF/tree/master/ctf%E4%BB%8B%E7%B4%B9)
+* [一般技能](url)
+>>>>>>> 36bc68d74d217034dbe3778d874a2b29d2a007aa
 * [逆向工程 (Reverse)](url)
 * [弱點或弱洞分析 (Pwnable)](url)
 * [鑑識（Forensics)](url)
