@@ -5,12 +5,12 @@ CTF(Capture The Flag)，中文稱之為奪旗賽。
 
 CTF分成六個主題
 
-* [逆向工程 (Reverse)](#逆向工程)
-* [弱點或漏洞分析（Pwnable）](#弱點或弱洞分析)
-* [鑑識（Forensics）](#鑑識)
-* [加解密 (Cryptography)](#加解密)
-* [網站 (Web)](#網站)
-* [綜合 (Misc)](#綜合)
+* 逆向工程 (Reverse)
+* 弱點或漏洞分析（Pwnable)
+* 鑑識（Forensics）
+* 加解密 (Cryptography)
+* 網站 (Web)
+* 綜合 (Misc)
 
 ## CTF分類
 
