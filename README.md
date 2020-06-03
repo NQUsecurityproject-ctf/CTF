@@ -25,8 +25,8 @@
 
 * [CTF介紹](https://github.com/NQUsecurityproject-ctf/CTF/blob/master/CTF.md)
 * [一般技能](https://github.com/NQUsecurityproject-ctf/CTF/blob/master/writeup/General%20Skills/%20generalskill.md)
-* [逆向工程 (Reverse)](url)
-* [弱點或弱洞分析 (Pwnable)](url)
-* [加解密 (Cryptography)](url)
-* [網站 (Web)](url)
+* [逆向工程 (Reverse)](https://github.com/NQUsecurityproject-ctf/CTF/tree/master/writeup/REVERSE)
+* [弱點或弱洞分析 (Pwnable)](https://github.com/NQUsecurityproject-ctf/CTF/tree/master/writeup/pwn)
+* [加解密 (Cryptography)](https://github.com/NQUsecurityproject-ctf/CTF/tree/master/writeup/crypto)
+* [網站 (Web)](https://github.com/NQUsecurityproject-ctf/CTF/tree/master/writeup/web)
 * [綜合 (Misc)](url)
