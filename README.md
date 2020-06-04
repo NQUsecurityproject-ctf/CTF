@@ -29,4 +29,4 @@
 * [弱點或弱洞分析 (Pwnable)](https://github.com/NQUsecurityproject-ctf/CTF/tree/master/writeup/pwn)
 * [加解密 (Cryptography)](https://github.com/NQUsecurityproject-ctf/CTF/tree/master/writeup/crypto)
 * [網站 (Web)](https://github.com/NQUsecurityproject-ctf/CTF/tree/master/writeup/web)
-* [綜合 (Misc)](url)
+* [綜合 (Misc)](https://github.com/NQUsecurityproject-ctf/CTF/tree/master/writeup/MISC)
