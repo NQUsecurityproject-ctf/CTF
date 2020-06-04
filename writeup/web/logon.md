@@ -10,9 +10,12 @@
 
 ## cookie:
 >Cookie 是您造訪過的網站所建立的檔案，可儲存您的瀏覽資訊，提供您更流暢方便的網路使用體驗。 啟用Cookie 後，網站就可讓您保持登入狀態、記住您的網站偏好設定，並提供您與所在地相關的內容。
+
 ## 解法
 > 登入時將admin欄位改為True，重新整理
 
+## 影片:
+[hitme](https://youtu.be/MCe4D2TO7sc)
 
 ## flag:
 >picoCTF{th3_c0nsp1r4cy_l1v3s_2e19dad3}
