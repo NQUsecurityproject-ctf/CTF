@@ -9,4 +9,3 @@
 ## flag:
 flag{th1s_!s_a_d4m0_4la9}
 
-![aaa](/writeup/images/file.png)

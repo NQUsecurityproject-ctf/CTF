@@ -11,5 +11,8 @@ runmdy@pico-2019-shell1:/problems/where-is-the-file_1_54878e9f5b7db0ddbaf642cdb5
 
 ## 解法:
 >找個線上摩斯解碼工具解碼
+
+## 影片:
+[hit me](https://youtu.be/av_wMgkIb7s)
 ## flag:
 picoctf{m0rs3c0d31sfun1677257287}

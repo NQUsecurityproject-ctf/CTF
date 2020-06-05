@@ -11,5 +11,8 @@
 > 利用wireshark打開後點選**analyze**
 > 在選**flow**最後點選**UDP STREAM**
 > 然後再右下角的stream那邊找找，然後就會發現flag
+
+## 影片:
+[hit me](https://youtu.be/TS3ACy1gX00)
 ## flag:
 picoCTF{not_too_bad_of_a_problem}
